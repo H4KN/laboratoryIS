@@ -22,6 +22,7 @@ Here's an overview of the file structure in this repository:
 - `main.py`: The main script that provides a menu-driven interface for managing users.
 - `user.py`: Defines the `User` class, which encapsulates user information and functionalities.
 - `user_file_manager.py`: Manages the persistence of user data using SQLite.
+- `users.db`: to see the list of users, you can run: ``` SELECT * FROM users; ```
 
 ## Usage
 
